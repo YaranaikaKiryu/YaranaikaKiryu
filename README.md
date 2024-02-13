@@ -1,9 +1,8 @@
 -  I’m @YaranaikaKiryu
 - Java and Python
-- I’m currently learning Python
+- I’m currently learning Advance Python and Java, React.js
 -  He/Him
 -  ProgDen
-<!---
-YaranaikaKiryu/YaranaikaKiryu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Former Half (Not so) Discord Bot Developer (Had to abandon bot the stupid thing)
+ｽﾞｲ₍₍(ง˘ω˘)ว⁾⁾ｽﾞｲ
