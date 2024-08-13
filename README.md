@@ -1,5 +1,4 @@
 -  I’m @YaranaikaKiryu
 - Java and Python
--  He/Him
-- Currently learning Advance Python
+- Currently learning Advance Python and CISCO
                                                                                                         ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
