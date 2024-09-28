@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning <br><br>
+🌱 I’m currently learning and dying (send moral support) <br><br>
 
 
 # 💻 Tech Stack:
